@@ -3,7 +3,7 @@ Team Slurpuff's JavaFX project for INFT 1004
 
 Document with JavaDoc where you think you need to, for help with JavaDoc see https://www.tutorialspoint.com/java/java_documentation.htm
 
-###Simple Git Usage
+### Simple Git Usage
 
 For reference, the basic flow of uploading changes to git is: 
 1. Stage your changes (`git add -A` will add all changes, `git add {file}` will add a specific file)
