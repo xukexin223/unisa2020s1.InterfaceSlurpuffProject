@@ -1,5 +1,6 @@
 package application;
 
+import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
@@ -8,6 +9,8 @@ import java.io.IOException;
 
 public class AppController {
     protected String templatePath = null;
+
+    @FXML
     protected Parent root;
 
     /**
